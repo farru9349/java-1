@@ -1,0 +1,9 @@
+public class Helloindia {
+
+public class statis void main(String[] args) {
+
+System.out.println("Hello india");
+
+}
+
+}
